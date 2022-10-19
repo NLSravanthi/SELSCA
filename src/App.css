@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.overview,
+.classreport,
+.middaymeals,
+.postattendance,
+.postmarks,
+.sports,
+.academics,
+.attendance,
+.studentdetails,
+.entry,
+.subjectwise,
+.studentwise {
+  background-attachment: fixed;
+  height: 100%;
+  width:100%;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  /*margin-top:10px;*/
+}
+
+.attendance1{
+  display: flex;
+  position: absolute;
+  background-attachment: fixed;
+  top:110px;
+  height: 6%;
+  width:60%;
+  align-items: center;
+  justify-content: center;
+  font-size: 80%;
+  /*background-color: #85b3f0;*/
+  border-radius:10px;
+  background-color: #85b3f0;
+  clip:rect(10 90 90 10);
+
+}
+.attendance2{
+  display: flow-root;
+  background-color: #8edff4;
+  align-items: center;
+  justify-content: center;
+  height:scroll;
+  width:90%;
+  border-radius:20px;
+  margin-top:15px;
+}
+
+.attendance3 {
+  display: block;
+  background-attachment: fixed;
+  height: 90vh;
+  width:100%;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  /*margin-top:10px;*/
+}
+.attendance4{
+  background-color: #f2f4f5;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  height:80%;
+  width:50%;
+  border-radius:20px;
+  margin-top:15px;
+  margin-left: 5px;
+}
+.boxplotstyle{
+  margin-right: 20px;
+}
+.font{
+  font-size: 3vh;
+  margin-top: 20px;
+  display: inline;
+  gap: 20px;
+}
+.font1{
+  font-size: 3vh;
+  margin-left: 20px;
+  display: inline;
+  gap: 20px;
+}
+
+.div{
+  background-color: #8edff4;
+  display: inline-block;
+  align-items: center;
+  height:100%;
+  width:90%;
+  border-radius:20px;
+  margin-top:15px;
+  gap: 20px;
+}
+.div1{
+  background-color: #4fcbea;
+  display: inline-table;
+  align-items: flex-start;
+  justify-content: center;
+  height:10%;
+  width:100%;
+  border-radius:20px;
+  gap: 20px;
+}
+
+
+/*Table css*/
+
+td, th {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.table1 thead th{
+  position: sticky;
+  top: 0;
+}
+.table1{
+  overflow-y: auto;
+  height: 400px;
+}
+
+table{
+  border-collapse: collapse;
+  width: 50%;
+}
+th{
+  background: rgb(50, 143, 210);
+}
+/*overview table*/
+.tablefixhead{
+  overflow-y: auto;
+  height: 400px;
+}
+
+
+.button {
+  display: inline-block;
+  padding: 10px 10px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #1352d1;
+  border: none;
+  border-radius: 15px;
+  margin-top: 20px;
+  /*box-shadow: 0 9px #999;*/
+
+}
+
+.button:hover {background-color: #0fa8ca}
+
+.button:active {
+  background-color: #0fa8ca;
+  /*box-shadow: 0 5px #666;*/
+  transform: translateY(4px);
+}
+.overviewguide{
+  margin-top: 2px;
+  background-color: #2fb5d6;
+  height:100px;
+  width:100%;
+  justify-content: center;
+}
+.marks{
+  text-align: center;
+}
+.Tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; 
+}
+
+@media only screen and (max-width: 800px) {
+  .attendance{
+    flex-direction: column-reverse;
+    flex-basis: 100%;
+    bottom: 50px;
+    Height:1000px;
+    width: 1000px;
+    background-attachment: fixed;
+    background-color: aquamarine;
+}
+  /*.attendance2,
+  .attendance1{
+    grid-template-columns: 2fr 6fr;
+    /*background-position: fixed;*/
+    /*font-size: 50%;
+    float: left;
+    align-items: center;
+    justify-self: center;*/
+  
+}
+.grabar{
+  position: relative;
+}
+
+@media only screen and (max-width: 800px){
+  .table1{
+    margin-left: 60px;
+  }
+  .grabar{
+    margin-top: 50px;
+    background-color: #1352d1;
+  }
+}
+
+/*tables in report*/
+.tbl-fixed{
+  overflow-x:scroll;
+  overflow-y:scroll;
+   height:fit-content;
+   max-height:40vh;
+   width: 300px;
+   margin-top:40pz;
+}
+
+.table-condensed{
+  background-color: #ffffff;
+}
+
+tr:nth-child(even){
+  background-color: #ccc;
+}
+
+

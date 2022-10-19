@@ -1,0 +1,5 @@
+a.forEach(item=>{
+  xvalues.push(Object.keys(item));
+  yvalues.push(item)
+});
+console.log(yvalues[0]);

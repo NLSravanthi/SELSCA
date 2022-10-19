@@ -1,0 +1,1363 @@
+[
+    {
+      "ID":"1",
+      "Name":"Pavani",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "4",
+          "week3": "6",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "5",
+          "week3": "5",
+          "week4": "3",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "4",
+          "week2": "3",
+          "week3": "2",
+          "week4": "5",
+          "week5": "6"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "6",
+          "week2": "4",
+          "week3": "6",
+          "week4": "5",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "5",
+          "week2": "6",
+          "week3": "4",
+          "week4": "5",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "3",
+          "week5": "2"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "4",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "3"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "6",
+          "week3": "6",
+          "week4": "7",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "5",
+          "week3": "3",
+          "week4": "6",
+          "week5": "5"
+        }
+    },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"2",
+      "Name":"Anusha",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "4",
+          "week2": "5",
+          "week3": "4",
+          "week4": "5",
+          "week5": "5"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "3",
+          "week3": "2",
+          "week4": "6",
+          "week5": "6"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "5",
+          "week5": "6"
+        },
+        "may":{
+          "total": "25",
+          "week1": "3",
+          "week2": "4",
+          "week3": "6",
+          "week4": "5",
+          "week5": "3"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "4",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "7",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "3"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "6",
+          "week3": "4",
+          "week4": "3",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "6",
+          "week3": "3",
+          "week4": "4",
+          "week5": "3"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "3"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "4",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "5",
+          "week3": "3",
+          "week4": "5",
+          "week5": "5"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"47",
+          "hindi": "78",
+          "english":"98",
+          "maths": "56",
+          "science":"87",
+          "social":"67"
+        },
+        "unit2":{
+          "telugu":"92",
+          "hindi": "86",
+          "english":"69",
+          "maths": "96",
+          "science":"66",
+          "social":"47"
+        },
+        "unit3":{
+          "telugu":"98",
+          "hindi": "43",
+          "english":"60",
+          "maths": "49",
+          "science":"79",
+          "social":"69"
+        },
+        "unit4":{
+          "telugu":"40",
+          "hindi": "86",
+          "english":"56",
+          "maths": "76",
+          "science":"99",
+          "social":"59"
+        }
+      }
+    },
+    {
+      "ID":"3",
+      "Name":"Vanitha",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "29",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "3",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "4",
+          "week2": "3",
+          "week3": "2",
+          "week4": "5",
+          "week5": "6"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "6",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "4",
+          "week2": "6",
+          "week3": "6",
+          "week4": "4",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "5",
+          "week5": "3"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "4",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "3"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "7",
+          "week3": "5",
+          "week4": "7",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "5",
+          "week3": "3",
+          "week4": "7",
+          "week5": "5"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "56",
+          "english":"79",
+          "maths": "59",
+          "science":"70",
+          "social":"13"
+        },
+        "unit2":{
+          "telugu":"58",
+          "hindi": "56",
+          "english":"67",
+          "maths": "78",
+          "science":"69",
+          "social":"67"
+        },
+        "unit3":{
+          "telugu":"100",
+          "hindi": "56",
+          "english":"45",
+          "maths": "89",
+          "science":"64",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"4",
+      "Name":"Sravanthi",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "25",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "5",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "6",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "4"
+        },
+        "may":{
+          "total": "25",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "4",
+          "week5": "5"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "6",
+          "week2": "5",
+          "week3": "8",
+          "week4": "3",
+          "week5": "6"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "4",
+          "week2": "6",
+          "week3": "4",
+          "week4": "6",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "3",
+          "week5": "6"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "4",
+          "week2": "6",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "5",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "6",
+          "week5": "5"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "91",
+          "english":"76",
+          "maths": "91",
+          "science":"89",
+          "social":"79"
+        },
+        "unit2":{
+          "telugu":"92",
+          "hindi": "89",
+          "english":"89",
+          "maths": "95",
+          "science":"70",
+          "social":"78"
+        },
+        "unit3":{
+          "telugu":"98",
+          "hindi": "89",
+          "english":"78",
+          "maths": "79",
+          "science":"81",
+          "social":"89"
+        },
+        "unit4":{
+          "telugu":"89",
+          "hindi": "95",
+          "english":"90",
+          "maths": "79",
+          "science":"80",
+          "social":"96"
+        }
+      }
+    },
+    {
+      "ID":"5",
+      "Name":"Maha",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "4"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5",
+          "week5": "6"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "5",
+          "week2": "6",
+          "week3": "4",
+          "week4": "4",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "4",
+          "week2": "3",
+          "week3": "2",
+          "week4": "5",
+          "week5": "6"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "6",
+          "week2": "3",
+          "week3": "5",
+          "week4": "6",
+          "week5": "4"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "4"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "4"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "3"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "6",
+          "week2": "3",
+          "week3": "5",
+          "week4": "3",
+          "week5": "4"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "5",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "4",
+          "week3": "4",
+          "week4": "5",
+          "week5": "3"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"6",
+      "Name":"Sowmya",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "21",
+          "week1": "5",
+          "week2": "6",
+          "week3": "3",
+          "week4": "5",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "6",
+          "week3": "4",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "4",
+          "week2": "6",
+          "week3": "5",
+          "week4": "3",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "5",
+          "week2": "6",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "4",
+          "week2": "3",
+          "week3": "2",
+          "week4": "5",
+          "week5": "4"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "3",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "6"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "6",
+          "week3": "4",
+          "week4": "3",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "3",
+          "week5": "6"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "4",
+          "week3": "6",
+          "week4": "6",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "6",
+          "week3": "3",
+          "week4": "5",
+          "week5": "4"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"7",
+      "Name":"Padma",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "6",
+          "week5": "3"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "4"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "5",
+          "week2": "3",
+          "week3": "6",
+          "week4": "6",
+          "week5": "4"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "4",
+          "week2": "3",
+          "week3": "6",
+          "week4": "5",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "5",
+          "week5": "6"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "3",
+          "week2": "5",
+          "week3": "3",
+          "week4": "6",
+          "week5": "6"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "6",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "5",
+          "week3": "3",
+          "week4": "6",
+          "week5": "4"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5",
+          "week5": "6"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "4",
+          "week5": "6"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "5"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5",
+          "week5": "3"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"8",
+      "Name":"Sita",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "5",
+          "week2": "6",
+          "week3": "6",
+          "week4": "4",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "3",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "2",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "5",
+          "week2": "6",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "6",
+          "week2": "4",
+          "week3": "3",
+          "week4": "6",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "6",
+          "week2": "3",
+          "week3": "4",
+          "week4": "6",
+          "week5": "2"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "5",
+          "week3": "4",
+          "week4": "2",
+          "week5": "4"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "6",
+          "week5": "5"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "6",
+          "week2": "3",
+          "week3": "5",
+          "week4": "6",
+          "week5": "4"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "4",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "5",
+          "week2": "6",
+          "week3": "4",
+          "week4": "2",
+          "week5": "5"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"9",
+      "Name":"Divya",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "4",
+          "week2": "5",
+          "week3": "6",
+          "week4": "5",
+          "week5": "3"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "5"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "6",
+          "week2": "5",
+          "week3": "6",
+          "week4": "3",
+          "week5": "4"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "6",
+          "week2": "3",
+          "week3": "5",
+          "week4": "4",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "6",
+          "week2": "5",
+          "week3": "2",
+          "week4": "3",
+          "week5": "6"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "4",
+          "week2": "6",
+          "week3": "6",
+          "week4": "5",
+          "week5": "2"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "6",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "5",
+          "week2": "6",
+          "week3": "3",
+          "week4": "6",
+          "week5": "4"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "3",
+          "week5": "4"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "6",
+          "week5": "3"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "5",
+          "week2": "6",
+          "week3": "2",
+          "week4": "4",
+          "week5": "6"
+        }
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    },
+    {
+      "ID":"10",
+      "Name":"Poojitha",
+      "Class":"10",
+      "attendance":{
+        "jan":{
+          "total": "28",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "3",
+          "week5": "6"
+        },
+        "feb":{
+          "total": "26",
+          "week1": "3",
+          "week2": "5",
+          "week3": "6",
+          "week4": "6"
+        },
+        "mar":{
+          "total": "24",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "6",
+          "week5": "5"
+        },
+        "apr":{
+          "total": "17",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "5"
+        },
+        "may":{
+          "total": "25",
+          "week1": "6",
+          "week2": "4",
+          "week3": "5",
+          "week4": "6",
+          "week5": "4"
+        },
+        "jun":{
+          "total": "23",
+          "week1": "6",
+          "week2": "2",
+          "week3": "4",
+          "week4": "6",
+          "week5": "5"
+        },
+        "jul":{
+          "total": "19",
+          "week1": "5",
+          "week2": "4",
+          "week3": "6",
+          "week4": "4",
+          "week5": "5"
+        },
+        "aug":{
+          "total": "21",
+          "week1": "6",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "6"
+        },
+        "sep":{
+          "total": "12",
+          "week1": "5",
+          "week2": "6",
+          "week3": "5",
+          "week4": "4",
+          "week5": "2"
+        },
+        "oct":{
+          "total": "20",
+          "week1": "4",
+          "week2": "3",
+          "week3": "6",
+          "week4": "5",
+          "week5": "6"
+        },
+        "nov":{
+          "total": "22",
+          "week1": "5",
+          "week2": "7",
+          "week3": "6",
+          "week4": "4",
+          "week5": "6"
+        },
+        "dec":{
+          "total": "27",
+          "week1": "5",
+          "week2": "6",
+          "week3": "3",
+          "week4": "5",
+          "week5": "5"
+        }
+
+      },
+      "Marks": {
+        "unit1":{
+          "telugu":"95",
+          "hindi": "46",
+          "english":"76",
+          "maths": "59",
+          "science":"60",
+          "social":"23"
+        },
+        "unit2":{
+          "telugu":"91",
+          "hindi": "89",
+          "english":"79",
+          "maths": "95",
+          "science":"60",
+          "social":"45"
+        },
+        "unit3":{
+          "telugu":"97",
+          "hindi": "46",
+          "english":"50",
+          "maths": "23",
+          "science":"68",
+          "social":"78"
+        },
+        "unit4":{
+          "telugu":"50",
+          "hindi": "95",
+          "english":"89",
+          "maths": "64",
+          "science":"59",
+          "social":"39"
+        }
+      }
+    }
+  ]
